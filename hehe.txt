@@ -1,0 +1,8 @@
+Página inicial listando cursos em destaque (veja modelo acima)
+Página para exibir todos os cursos
+Página para exibir cursos de uma determinada categoria
+Página para envio de mensagem de contato
+Página para um determinado curso exibindo todas as informações dele (nome, descrição, preço…)
+Possibilidade de cadastro do Usuário (usando modelagem do próprio django ou a sua - custom user)
+Possibilidade do usuário se inscrever no curso via botão presente dentro da página do curso
+Página para exibir os cursos os quais o usuário está inscrito
